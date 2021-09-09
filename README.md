@@ -1,2 +1,2 @@
 # Element_Memorize
-* Change "List", "ElementList"
+* Change "List", "ElementNum"
